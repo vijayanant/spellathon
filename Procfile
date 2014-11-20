@@ -1,0 +1,1 @@
+web: python src/vj/spellathon/app.pyapp.py
